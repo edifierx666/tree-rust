@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b80d644-118f-45d4-a952-81ce1734ea6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file_iterator.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree_printer.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="rxaul333" />
+  </component>
+  <component name="ProjectId" id="1jBArpZdfACwa6kN8iL22tdTQtM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.19.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.67" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="project" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v12.19.0/lib/node_modules/prettier" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run tree-cli" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package tree-cli --bin tree-cli" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Run tree-cli" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="externalLinter" value="Clippy" />
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="useRustfmt" value="true" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b80d644-118f-45d4-a952-81ce1734ea6f" name="Default Changelist" comment="" />
+      <created>1603267312336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603267312336</updated>
+      <workItem from="1603267313401" duration="15078000" />
+      <workItem from="1603291506381" duration="5523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1603288384872">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="559" y="125" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1603288384872" />
+    <state x="252" y="23" key="CommitChangelistDialog2" timestamp="1603289040479">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="252" y="23" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1603289040479" />
+    <state width="1426" height="332" key="GridCell.Tab.0.bottom" timestamp="1603296883196">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1426" height="332" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1603296883196" />
+    <state width="1426" height="318" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1603291379799" />
+    <state width="1426" height="332" key="GridCell.Tab.0.center" timestamp="1603296883195">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1426" height="332" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1603296883195" />
+    <state width="1426" height="318" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1603291379798" />
+    <state width="1426" height="332" key="GridCell.Tab.0.left" timestamp="1603296883195">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1426" height="332" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1603296883195" />
+    <state width="1426" height="318" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1603291379798" />
+    <state width="1426" height="332" key="GridCell.Tab.0.right" timestamp="1603296883196">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1426" height="332" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1603296883196" />
+    <state width="1426" height="318" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1603291379798" />
+    <state width="1426" height="313" key="GridCell.Tab.1.bottom" timestamp="1603293416404">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1426" height="313" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1603293416404" />
+    <state width="1426" height="313" key="GridCell.Tab.1.center" timestamp="1603293416403">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1426" height="313" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1603293416403" />
+    <state width="1426" height="313" key="GridCell.Tab.1.left" timestamp="1603293416403">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1426" height="313" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1603293416403" />
+    <state width="1426" height="313" key="GridCell.Tab.1.right" timestamp="1603293416403">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1426" height="313" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1603293416403" />
+    <state x="99" y="23" key="SettingsEditor" timestamp="1603291763840">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="99" y="23" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1603291763840" />
+    <state x="435" y="150" width="810" height="786" key="StructurePopup" timestamp="1603293536064">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="435" y="150" width="810" height="786" key="StructurePopup/0.23.1680.1027@0.23.1680.1027" timestamp="1603293536064" />
+    <state x="337" y="23" width="1005" height="1466" key="search.everywhere.popup" timestamp="1603291734073">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="337" y="23" width="1005" height="1466" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1603291734073" />
+  </component>
+</project>
